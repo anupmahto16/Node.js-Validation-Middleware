@@ -1,0 +1,26 @@
+{
+    "todos": [
+        {
+            "ID": 1,
+            "Name": "Inception",
+            "Rating": 9,
+            "Description": "A mind-bending thriller",
+            "Genre": "Sci-Fi",
+            "Cast": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt"
+            ]
+        },
+        {
+            "ID": 1,
+            "Name": "Todo Item",
+            "Rating": 5,
+            "Description": "A sample todo item",
+            "Genre": "Personal",
+            "Cast": [
+                "John Doe",
+                "Jane Doe"
+            ]
+        }
+    ]
+}
